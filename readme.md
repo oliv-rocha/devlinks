@@ -40,7 +40,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está licenciado sob a <a href="https://mit-license.org/">licença MIT</a>
 
 ---
 
