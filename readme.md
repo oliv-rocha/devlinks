@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 # Discover
 
-Desenvolvido com ♥ por <a href= "https://app.rocketseat.com.br" >Rocktseat</a> :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+Desenvolvido com ♥ por <a href= "https://app.rocketseat.com.br" >Rocketseat</a> :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
